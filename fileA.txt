@@ -1,1 +1,4 @@
-Change from gitdel.
+This merged file includes changes from both:
+* Change from gitdel.
+* Change from gitexp2.
+
